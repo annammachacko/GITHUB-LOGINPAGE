@@ -1,0 +1,81 @@
+.github_container_container{
+    height: 750px;
+    width: 400px;
+    margin-left: 550px;
+    margin-top: 75px;
+}
+.github_img{
+    margin-left: 150px;
+    margin-top: 25px;
+}
+.sign_github{
+    font-size: 26px;
+    margin-left: 90px;
+    
+}
+.input_container{
+    height: 200px;
+    width: 320px;
+    background-color: aliceblue;
+    margin-left: 580px;
+    margin-top: -580px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.UserName_input{
+    border-radius: 5px;
+    height: 30px;
+    width: 95%;
+    margin-top: 10px;
+}
+.password_label{
+    margin-top: 10px;
+    display: inline-block;
+
+}
+.forgot_label{
+    color: blue;
+    margin-left: 100px;
+}
+button{
+    background-color: #1A5D1A;
+    color: white;
+    margin-top: 18px;
+    width: 100%;
+    padding: 8px;
+    border: none;
+    border-radius: 8px;
+}
+.container2{
+    height: 50px;
+    width: 320px;
+    background-color: aliceblue;
+    margin-top: 50px;
+    margin-left: -8px;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+#buttn1{
+    text-decoration: none;
+    margin-top: 25px;
+    margin-left: 60px;   
+}
+p{
+    margin-left: 35px;
+}
+#buttn2{
+    text-decoration: none;
+}
+.button_container{
+    margin-top: 150px;
+    margin-left: 500px;
+    text-decoration: none;
+}
+.bottom_links{
+  color: gray; 
+  margin-left: 16px;
+  text-decoration: none; 
+}
